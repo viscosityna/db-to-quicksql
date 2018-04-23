@@ -62,18 +62,3 @@ BEGIN
     print_clob(l_clob);
 END;
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*This tool is in beta state, **Not Production Ready** yet.*
